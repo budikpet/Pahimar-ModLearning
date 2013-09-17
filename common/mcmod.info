@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Pah",
+  "name": "Learn Modding with Pahimar",
+  "description": "Official mod for learning.",
+  "version": "0.0.1",
+  "url": "www.github.com/pahimar/letsmod-mod/",
+  "updateUrl": "",
+  "authorList": [
+    "SgtPetrov"
+  ],
+  "credits": "Pahimar is a teacher.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
